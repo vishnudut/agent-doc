@@ -1,0 +1,13 @@
+{
+  "context_servers": {
+    "doc-injection-agent": {
+      "source": "custom",
+      "command": "/Users/vishnudut/Code/agent-doc/venv/bin/python",
+      "args": ["/Users/vishnudut/Code/agent-doc/agent_mcp.py"],
+      "env": {
+        "PYTHONPATH": "/Users/vishnudut/Code/agent-doc",
+        "PATH": "/Users/vishnudut/Code/agent-doc/venv/bin:/usr/local/bin:/usr/bin:/bin"
+      }
+    }
+  }
+}

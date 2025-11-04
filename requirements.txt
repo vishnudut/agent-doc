@@ -1,0 +1,18 @@
+# Web Framework
+fastapi==0.115.5
+uvicorn==0.32.1
+
+# OpenAI API
+openai==1.55.3
+
+# Opik for tracing and observability
+opik==0.5.14
+
+# MCP Python SDK for Model Context Protocol
+mcp==1.20.0
+
+# HTTP Client
+requests==2.32.3
+
+# Environment Variables
+python-dotenv==1.0.1
